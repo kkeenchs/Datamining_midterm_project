@@ -1,0 +1,101 @@
+"Brand";"Model";"Year";"Color";"Category";"EngineType";"CarKey"
+"Isuzu";"D-Max";2022;"Red";"Pickup";"EV";1
+"Toyota";"Fortuner";2023;"Black";"SUV";"Diesel";2
+"BMW";"X3";2019;"Gray";"SUV";"Diesel";3
+"Tesla";"Model 3";2019;"Gray";"Sedan";"Gasoline";4
+"Tesla";"Model Y";2021;"Red";"SUV";"Hybrid";5
+"Nissan";"Terra";2021;"White";"SUV";"Hybrid";6
+"Nissan";"Terra";2020;"Silver";"SUV";"Hybrid";7
+"Honda";"Accord";2021;"White";"Sedan";"Hybrid";8
+"BMW";"3 Series";2020;"Red";"Sedan";"Hybrid";9
+"Toyota";"Camry";2021;"Silver";"Sedan";"EV";10
+"Honda";"Jazz";2019;"Gray";"Hatchback";"Gasoline";11
+"Honda";"Accord";2023;"Green";"Sedan";"Gasoline";12
+"Honda";"CR-V";2020;"White";"SUV";"Hybrid";13
+"Nissan";"Almera";2023;"Green";"Sedan";"Diesel";14
+"Nissan";"Terra";2022;"Blue";"SUV";"Diesel";15
+"Toyota";"Hilux";2021;"Gray";"Pickup";"EV";16
+"Nissan";"Navara";2021;"Gray";"Pickup";"Hybrid";17
+"Toyota";"Hilux";2022;"Silver";"Pickup";"EV";18
+"Toyota";"Hilux";2023;"Gray";"Pickup";"Gasoline";19
+"Honda";"CR-V";2023;"Red";"SUV";"Hybrid";20
+"Tesla";"Model 3";2023;"Gray";"Sedan";"EV";21
+"Nissan";"Almera";2023;"Gray";"Sedan";"Gasoline";22
+"BMW";"X5";2020;"Red";"SUV";"Diesel";23
+"Toyota";"Camry";2023;"Black";"Sedan";"Diesel";24
+"Tesla";"Model Y";2021;"Blue";"SUV";"Gasoline";25
+"Toyota";"Camry";2020;"Gray";"Sedan";"EV";26
+"Nissan";"Navara";2023;"Black";"Pickup";"EV";27
+"BMW";"3 Series";2022;"Green";"Sedan";"Hybrid";28
+"Toyota";"Corolla";2019;"Red";"Sedan";"Hybrid";29
+"Isuzu";"MU-X";2023;"White";"SUV";"EV";30
+"Toyota";"Hilux";2020;"Blue";"Pickup";"Gasoline";31
+"Honda";"Jazz";2020;"Silver";"Hatchback";"Diesel";32
+"Toyota";"Hilux";2020;"Blue";"Pickup";"EV";33
+"Nissan";"Terra";2019;"Silver";"SUV";"Gasoline";34
+"Toyota";"Hilux";2021;"Gray";"Pickup";"EV";35
+"Tesla";"Model 3";2022;"Green";"Sedan";"Gasoline";36
+"BMW";"3 Series";2023;"White";"Sedan";"EV";37
+"Honda";"Accord";2022;"Gray";"Sedan";"Gasoline";38
+"Nissan";"Navara";2021;"Black";"Pickup";"Gasoline";39
+"Tesla";"Model Y";2023;"Silver";"SUV";"Gasoline";40
+"Tesla";"Model 3";2022;"White";"Sedan";"Gasoline";41
+"Isuzu";"D-Max";2021;"Gray";"Pickup";"Hybrid";42
+"Toyota";"Hilux";2019;"Blue";"Pickup";"Diesel";43
+"Toyota";"Hilux";2022;"Green";"Pickup";"EV";44
+"Honda";"Jazz";2022;"Gray";"Hatchback";"Gasoline";45
+"Toyota";"Hilux";2019;"Blue";"Pickup";"Hybrid";46
+"Nissan";"Almera";2021;"Green";"Sedan";"Hybrid";47
+"BMW";"X3";2023;"Red";"SUV";"Hybrid";48
+"Honda";"Jazz";2022;"Red";"Hatchback";"Hybrid";49
+"Nissan";"Almera";2020;"Blue";"Sedan";"Diesel";50
+"Isuzu";"D-Max";2021;"Red";"Pickup";"EV";51
+"Honda";"Civic";2020;"Blue";"Sedan";"Hybrid";52
+"Nissan";"Almera";2023;"White";"Sedan";"Gasoline";53
+"Toyota";"Hilux";2023;"Silver";"Pickup";"Hybrid";54
+"Toyota";"Camry";2022;"Silver";"Sedan";"Gasoline";55
+"Nissan";"Navara";2021;"White";"Pickup";"Gasoline";56
+"Toyota";"Corolla";2020;"Silver";"Sedan";"EV";57
+"Nissan";"Almera";2023;"Green";"Sedan";"EV";58
+"Toyota";"Fortuner";2022;"White";"SUV";"EV";59
+"Isuzu";"D-Max";2023;"Red";"Pickup";"Diesel";60
+"Tesla";"Model Y";2023;"Green";"SUV";"Hybrid";61
+"Toyota";"Fortuner";2021;"White";"SUV";"Diesel";62
+"Tesla";"Model Y";2023;"Green";"SUV";"EV";63
+"Honda";"Civic";2020;"Red";"Sedan";"Gasoline";64
+"Isuzu";"MU-X";2020;"Silver";"SUV";"EV";65
+"Nissan";"Navara";2021;"Blue";"Pickup";"Hybrid";66
+"Tesla";"Model Y";2020;"Blue";"SUV";"Hybrid";67
+"BMW";"5 Series";2019;"Silver";"Sedan";"Hybrid";68
+"Tesla";"Model 3";2021;"Silver";"Sedan";"Gasoline";69
+"Tesla";"Model 3";2019;"White";"Sedan";"Hybrid";70
+"Toyota";"Camry";2022;"Silver";"Sedan";"Diesel";71
+"Nissan";"Terra";2019;"Black";"SUV";"Hybrid";72
+"Nissan";"Navara";2019;"Silver";"Pickup";"Hybrid";73
+"Tesla";"Model 3";2020;"Black";"Sedan";"EV";74
+"Isuzu";"D-Max";2021;"Silver";"Pickup";"EV";75
+"Tesla";"Model Y";2022;"Black";"SUV";"Gasoline";76
+"Isuzu";"MU-X";2023;"Red";"SUV";"Gasoline";77
+"Isuzu";"MU-X";2023;"Silver";"SUV";"EV";78
+"Nissan";"Almera";2022;"Black";"Sedan";"Diesel";79
+"Toyota";"Hilux";2019;"White";"Pickup";"EV";80
+"Toyota";"Camry";2020;"Green";"Sedan";"Gasoline";81
+"Tesla";"Model Y";2020;"Silver";"SUV";"Diesel";82
+"Toyota";"Corolla";2020;"Green";"Sedan";"Hybrid";83
+"Tesla";"Model Y";2020;"Silver";"SUV";"Hybrid";84
+"Toyota";"Fortuner";2023;"Silver";"SUV";"Hybrid";85
+"BMW";"3 Series";2019;"Black";"Sedan";"Gasoline";86
+"Toyota";"Corolla";2022;"Red";"Sedan";"Gasoline";87
+"Honda";"CR-V";2023;"Silver";"SUV";"EV";88
+"Nissan";"Navara";2019;"Gray";"Pickup";"Hybrid";89
+"BMW";"X3";2022;"Red";"SUV";"Hybrid";90
+"Nissan";"Almera";2019;"Red";"Sedan";"Gasoline";91
+"Toyota";"Fortuner";2020;"White";"SUV";"Gasoline";92
+"Isuzu";"MU-X";2022;"White";"SUV";"Diesel";93
+"Honda";"Civic";2022;"Blue";"Sedan";"Gasoline";94
+"Toyota";"Camry";2020;"Green";"Sedan";"Hybrid";95
+"Honda";"Civic";2023;"White";"Sedan";"EV";96
+"Nissan";"Almera";2022;"White";"Sedan";"Gasoline";97
+"Tesla";"Model 3";2019;"Gray";"Sedan";"Diesel";98
+"BMW";"X5";2021;"Silver";"SUV";"Diesel";99
+"BMW";"5 Series";2023;"Gray";"Sedan";"Gasoline";100

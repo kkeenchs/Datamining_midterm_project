@@ -1,0 +1,51 @@
+"CustomerID";"FirstName";"LastName";"Gender";"Phone";"Email";"Address";"RegDate";"BirthDate"
+1;"Anthony";"Miller";"Male";871854043;"anthony.miller@example.com";"Danielton, Thailand";2024-04-02 00:00:00;1982-05-10 00:00:00
+2;"Joshua";"Cook";"Male";909318128;"joshua.cook@example.com";"East Matthew, Thailand";2024-01-23 00:00:00;1958-03-05 00:00:00
+3;"Mia";"Martin";"Female";;;"New Nicholastown, Thailand";2023-12-26 00:00:00;1984-04-30 00:00:00
+4;"Nicholas";"Garcia";"Male";901770413;"nicholas.garcia@example.com";"Lake Douglastown, Thailand";2023-11-19 00:00:00;1957-08-17 00:00:00
+5;"Susan";"Berry";"Female";891482327;"susan.berry@example.com";"Monroeport, Thailand";2024-02-07 00:00:00;1981-01-12 04:10:26
+6;"Joseph";"Webb";"Male";842859049;"joseph.webb@example.com";"Alexanderhaven, Thailand";2024-06-27 00:00:00;1996-01-29 00:00:00
+7;"Michael";"Little";"Male";890520907;"michael.little@example.com";"Meyerchester, Thailand";2024-03-26 00:00:00;2000-01-03 00:00:00
+8;"Katrina";"Boone";"Female";;"katrina.boone@example.com";"Lake Lori, Thailand";2024-09-17 00:00:00;1998-07-25 00:00:00
+9;"Matthew";"Jackson";"Male";;"matthew.jackson@example.com";"Hensonmouth, Thailand";2024-04-16 00:00:00;1977-07-27 00:00:00
+10;"Kenneth";"Rogers";"Male";;"kenneth.rogers@example.com";"Port Courtneytown, Thailand";2024-02-20 00:00:00;1967-07-05 00:00:00
+11;"Zachary";"Sullivan";"Male";960416884;"zachary.sullivan@example.com";"Lake Keithfort, Thailand";2025-04-27 00:00:00;1988-09-25 00:00:00
+12;"Michelle";"Stephens";"Female";818757454;"michelle.stephens@example.com";"New Sean, Thailand";2024-08-08 00:00:00;1966-09-23 00:00:00
+13;"Andrew";"Taylor";"Male";884680372;"andrew.taylor@example.com";"West Laurenview, Thailand";2024-06-27 00:00:00;1967-10-15 00:00:00
+14;"Madison";"Smith";"Female";827390273;;"New Michaelland, Thailand";2022-12-29 00:00:00;1996-09-01 00:00:00
+15;"Jeffrey";"Smith";"Male";824901297;;"Jonesfurt, Thailand";2022-10-07 00:00:00;1991-02-07 00:00:00
+16;"William";"Baker";"Male";833889895;"william.baker@example.com";"Port Annachester, Thailand";2024-02-15 00:00:00;1986-10-18 00:00:00
+17;"Alexander";"Fields";"Male";878329872;"alexander.fields@example.com";"Brownberg, Thailand";2024-03-23 00:00:00;1965-10-16 00:00:00
+18;"Mary";"Manning";"Female";953923061;"mary.manning@example.com";"Port Aprilside, Thailand";2023-12-11 00:00:00;1997-05-06 00:00:00
+19;"Brianna";"Rios";"Female";871221752;"brianna.rios@example.com";"Richardsonside, Thailand";2024-01-29 00:00:00;1974-06-16 00:00:00
+20;"Kelly";"Soto";"Female";809863215;"kelly.soto@example.com";"Reynoldsberg, Thailand";2024-07-29 00:00:00;1981-01-12 04:10:26
+21;"Mary";"Bailey";"Female";892197421;;"Torrestown, Thailand";2023-04-26 00:00:00;2004-11-22 00:00:00
+22;"Kelly";"Savage";"Female";855529220;"kelly.savage@example.com";"West Vincent, Thailand";2024-12-17 00:00:00;1989-09-01 00:00:00
+23;"Molly";"Walker";"Female";803368352;"molly.walker@example.com";"Christopherhaven, Thailand";2023-09-04 00:00:00;1993-06-11 00:00:00
+24;"Christina";"Morris";"Female";;"christina.morris@example.com";"New Christopherborough, Thailand";2024-10-15 00:00:00;1981-09-26 00:00:00
+25;"Christina";"Carney";"Female";983834591;"christina.carney@example.com";"West Anne, Thailand";2023-01-02 00:00:00;1955-10-23 00:00:00
+26;"Lindsay";"Miller";"Female";939749914;"lindsay.miller@example.com";"Port Selena, Thailand";2023-03-21 00:00:00;1992-05-18 00:00:00
+27;"Rachel";"Webb";"Female";;"rachel.webb@example.com";"Watersview, Thailand";2025-02-05 00:00:00;2004-05-10 00:00:00
+28;"Sean";"Peterson";"Male";;;"New Cynthia, Thailand";2025-03-13 00:00:00;1969-11-23 00:00:00
+29;"Lee";"Simpson";"Male";994837926;"lee.simpson@example.com";"Lake Brianmouth, Thailand";2024-03-07 00:00:00;2001-12-27 00:00:00
+30;"Tyler";"Foley";"Male";930702606;"tyler.foley@example.com";"Jaymouth, Thailand";2024-02-06 00:00:00;1976-02-10 00:00:00
+31;"Robin";"Lee";"Female";845668088;"robin.lee@example.com";"Rowlandton, Thailand";2024-05-28 00:00:00;1966-12-08 00:00:00
+32;"Jaime";"Baker";"Female";890440240;"jaime.baker@example.com";"Richardsonport, Thailand";2023-03-01 00:00:00;1981-01-12 04:10:26
+33;"Susan";"Shaw";"Female";819673843;"susan.shaw@example.com";"Brianfurt, Thailand";2022-11-11 00:00:00;1981-01-12 04:10:26
+34;"Laurie";"Evans";"Female";904060514;"laurie.evans@example.com";"Johnmouth, Thailand";2023-10-10 00:00:00;1986-04-28 00:00:00
+35;"Sarah";"Hart";"Female";804377724;;"Lake Stanley, Thailand";2025-02-01 00:00:00;1978-01-20 00:00:00
+36;"Taylor";"Hill";"Male";957357334;"taylor.hill@example.com";"North Andrew, Thailand";2025-06-13 00:00:00;1957-12-17 00:00:00
+37;"Jon";"Anderson";"Male";968662701;"jon.anderson@example.com";"South Whitneyberg, Thailand";2024-01-11 00:00:00;1991-01-21 00:00:00
+38;"Sheila";"Snow";"Female";803443787;"sheila.snow@example.com";"South Williamport, Thailand";2025-02-09 00:00:00;1969-09-02 00:00:00
+39;"Stephanie";"Smith";"Female";;"stephanie.smith@example.com";"Perezland, Thailand";2023-09-20 00:00:00;2004-04-22 00:00:00
+40;"Dominique";"Cowan";"Female";;"dominique.cowan@example.com";"Williamstown, Thailand";2024-10-02 00:00:00;1978-12-23 00:00:00
+41;"Michael";"Gonzalez";"Male";971476795;"michael.gonzalez@example.com";"Port Jill, Thailand";2024-11-25 00:00:00;1972-12-23 00:00:00
+42;"Sara";"Turner";"Female";932816357;"sara.turner@example.com";"West Allison, Thailand";2023-01-30 00:00:00;1986-06-13 00:00:00
+43;"Jeremy";"Gardner";"Male";946074551;"jeremy.gardner@example.com";"New Shelley, Thailand";2022-12-06 00:00:00;1973-08-25 00:00:00
+44;"Madison";"Long";"Female";847671381;"madison.long@example.com";"North Ashleychester, Thailand";2024-11-03 00:00:00;1985-03-01 00:00:00
+45;"Herbert";"Snyder";"Male";943983415;"herbert.snyder@example.com";"East Teresa, Thailand";2023-09-06 00:00:00;1967-11-16 00:00:00
+46;"Susan";"Jones";"Female";901627023;"susan.jones@example.com";"South Dianaside, Thailand";2022-10-08 00:00:00;1956-05-26 00:00:00
+47;"Amanda";"David";"Female";811846019;;"Haleburgh, Thailand";2023-12-08 00:00:00;2004-05-15 00:00:00
+48;"Brian";"Lambert";"Male";836165665;"brian.lambert@example.com";"New Anthony, Thailand";2024-03-06 00:00:00;1976-09-29 00:00:00
+49;"Rachel";"Owens";"Female";851855549;"rachel.owens@example.com";"New Elaine, Thailand";2024-06-28 00:00:00;1982-11-01 00:00:00
+50;"James";"Lopez";"Male";868816742;"james.lopez@example.com";"Oneillport, Thailand";2023-03-27 00:00:00;1959-11-20 00:00:00
