@@ -1,0 +1,101 @@
+CarID,Brand,Model,Year,Color,Category,EngineType,Price,Status
+1,Isuzu,D-Max,2022,Red,Pickup,EV,1745363,Available
+2,Toyota,Fortuner,2023,Black,SUV,Diesel,769140,Sold
+3,BMW,X3,2019,Gray,SUV,Diesel,1406632,Sold
+4,Tesla,Model 3,2019,Gray,Sedan,Gasoline,706684,Sold
+5,Tesla,Model Y,2021,Red,SUV,Hybrid,1068067,Sold
+6,Nissan,Terra,2021,White,SUV,Hybrid,2674842,Sold
+7,Nissan,Terra,2020,Silver,SUV,Hybrid,2303065,Available
+8,Honda,Accord,2021,White,Sedan,Hybrid,2688031,Sold
+9,BMW,3 Series,2020,Red,Sedan,Hybrid,2728756,Sold
+10,Toyota,Camry,2021,Silver,Sedan,EV,1752832,Available
+11,Honda,Jazz,2019,Gray,Hatchback,Gasoline,1048467,Sold
+12,Honda,Accord,2023,Green,Sedan,Gasoline,1926835,Sold
+13,Honda,CR-V,2020,White,SUV,Hybrid,739803,Sold
+14,Nissan,Almera,2023,Green,Sedan,Diesel,1433219,Sold
+15,Nissan,Terra,2022,Blue,SUV,Diesel,2229686,Sold
+16,Toyota,Hilux,2021,Gray,Pickup,EV,2530308,Sold
+17,Nissan,Navara,2021,Gray,Pickup,Hybrid,1205049,Sold
+18,Toyota,Hilux,2022,Silver,Pickup,EV,2154040,Reserved
+19,Toyota,Hilux,2023,Gray,Pickup,Gasoline,1130563,Sold
+20,Honda,CR-V,2023,Red,SUV,Hybrid,2512799,Sold
+21,Tesla,Model 3,2023,Gray,Sedan,EV,1450317,Sold
+22,Nissan,Almera,2023,Gray,Sedan,Gasoline,849578,Sold
+23,BMW,X5,2020,Red,SUV,Diesel,2133685,Sold
+24,Toyota,Camry,2023,Black,Sedan,Diesel,2216618,Available
+25,Tesla,Model Y,2021,Blue,SUV,Gasoline,2883934,Reserved
+26,Toyota,Camry,2020,Gray,Sedan,EV,1667753,Sold
+27,Nissan,Navara,2023,Black,Pickup,EV,2521241,Sold
+28,BMW,3 Series,2022,Green,Sedan,Hybrid,1548103,Available
+29,Toyota,Corolla,2019,Red,Sedan,Hybrid,2526706,Reserved
+30,Isuzu,MU-X,2023,White,SUV,EV,1748605,Reserved
+31,Toyota,Hilux,2020,Blue,Pickup,Gasoline,1373128,Reserved
+32,Honda,Jazz,2020,Silver,Hatchback,Diesel,700450,Sold
+33,Toyota,Hilux,2020,Blue,Pickup,EV,1241006,Sold
+34,Nissan,Terra,2019,Silver,SUV,Gasoline,2570480,Available
+35,Toyota,Hilux,2021,Gray,Pickup,EV,898200,Sold
+36,Tesla,Model 3,2022,Green,Sedan,Gasoline,1373870,Available
+37,BMW,3 Series,2023,White,Sedan,EV,1085679,Sold
+38,Honda,Accord,2022,Gray,Sedan,Gasoline,2463980,Sold
+39,Nissan,Navara,2021,Black,Pickup,Gasoline,2842445,Sold
+40,Tesla,Model Y,2023,Silver,SUV,Gasoline,1496516,Sold
+41,Tesla,Model 3,2022,White,Sedan,Gasoline,2107846,Sold
+42,Isuzu,D-Max,2021,Gray,Pickup,Hybrid,2607291,Sold
+43,Toyota,Hilux,2019,Blue,Pickup,Diesel,2046874,Reserved
+44,Toyota,Hilux,2022,Green,Pickup,EV,1915449,Sold
+45,Honda,Jazz,2022,Gray,Hatchback,Gasoline,2190659,Sold
+46,Toyota,Hilux,2019,Blue,Pickup,Hybrid,1660390,Sold
+47,Nissan,Almera,2021,Green,Sedan,Hybrid,1416883,Available
+48,BMW,X3,2023,Red,SUV,Hybrid,1393957,Sold
+49,Honda,Jazz,2022,Red,Hatchback,Hybrid,1033223,Sold
+50,Nissan,Almera,2020,Blue,Sedan,Diesel,2892868,Sold
+51,Isuzu,D-Max,2021,Red,Pickup,EV,2946901,Sold
+52,Honda,Civic,2020,Blue,Sedan,Hybrid,1843022,Sold
+53,Nissan,Almera,2023,White,Sedan,Gasoline,2848415,Sold
+54,Toyota,Hilux,2023,Silver,Pickup,Hybrid,1853602,Reserved
+55,Toyota,Camry,2022,Silver,Sedan,Gasoline,2063331,Reserved
+56,Nissan,Navara,2021,White,Pickup,Gasoline,2806689,Sold
+57,Toyota,Corolla,2020,Silver,Sedan,EV,992362,Sold
+58,Nissan,Almera,2023,Green,Sedan,EV,1771789,Sold
+59,Toyota,Fortuner,2022,White,SUV,EV,2598221,Sold
+60,Isuzu,D-Max,2023,Red,Pickup,Diesel,1795156,Available
+61,Tesla,Model Y,2023,Green,SUV,Hybrid,2281082,Sold
+62,Toyota,Fortuner,2021,White,SUV,Diesel,693046,Sold
+63,Tesla,Model Y,2023,Green,SUV,EV,2352265,Available
+64,Honda,Civic,2020,Red,Sedan,Gasoline,853193,Available
+65,Isuzu,MU-X,2020,Silver,SUV,EV,2870582,Sold
+66,Nissan,Navara,2021,Blue,Pickup,Hybrid,1335728,Sold
+67,Tesla,Model Y,2020,Blue,SUV,Hybrid,2557325,Available
+68,BMW,5 Series,2019,Silver,Sedan,Hybrid,848965,Sold
+69,Tesla,Model 3,2021,Silver,Sedan,Gasoline,2388801,Sold
+70,Tesla,Model 3,2019,White,Sedan,Hybrid,1352752,Sold
+71,Toyota,Camry,2022,Silver,Sedan,Diesel,1800648,Sold
+72,Nissan,Terra,2019,Black,SUV,Hybrid,2365477,Available
+73,Nissan,Navara,2019,Silver,Pickup,Hybrid,2108621,Available
+74,Tesla,Model 3,2020,Black,Sedan,EV,1001744,Sold
+75,Isuzu,D-Max,2021,Silver,Pickup,EV,2902829,Sold
+76,Tesla,Model Y,2022,Black,SUV,Gasoline,1781366,Sold
+77,Isuzu,MU-X,2023,Red,SUV,Gasoline,1466903,Available
+78,Isuzu,MU-X,2023,Silver,SUV,EV,1861726,Sold
+79,Nissan,Almera,2022,Black,Sedan,Diesel,702716,Sold
+80,Toyota,Hilux,2019,White,Pickup,EV,2966295,Sold
+81,Toyota,Camry,2020,Green,Sedan,Gasoline,2265769,Available
+82,Tesla,Model Y,2020,Silver,SUV,Diesel,1687392,Available
+83,Toyota,Corolla,2020,Green,Sedan,Hybrid,2493583,Sold
+84,Tesla,Model Y,2020,Silver,SUV,Hybrid,1506480,Sold
+85,Toyota,Fortuner,2023,Silver,SUV,Hybrid,1597914,Sold
+86,BMW,3 Series,2019,Black,Sedan,Gasoline,1566434,Available
+87,Toyota,Corolla,2022,Red,Sedan,Gasoline,1129453,Sold
+88,Honda,CR-V,2023,Silver,SUV,EV,2936924,Sold
+89,Nissan,Navara,2019,Gray,Pickup,Hybrid,2209003,Available
+90,BMW,X3,2022,Red,SUV,Hybrid,2356954,Reserved
+91,Nissan,Almera,2019,Red,Sedan,Gasoline,2499154,Sold
+92,Toyota,Fortuner,2020,White,SUV,Gasoline,919690,Sold
+93,Isuzu,MU-X,2022,White,SUV,Diesel,2350457,Sold
+94,Honda,Civic,2022,Blue,Sedan,Gasoline,2078258,Sold
+95,Toyota,Camry,2020,Green,Sedan,Hybrid,2375021,Sold
+96,Honda,Civic,2023,White,Sedan,EV,1191702,Sold
+97,Nissan,Almera,2022,White,Sedan,Gasoline,993590,Sold
+98,Tesla,Model 3,2019,Gray,Sedan,Diesel,1633003,Available
+99,BMW,X5,2021,Silver,SUV,Diesel,2819780,Reserved
+100,BMW,5 Series,2023,Gray,Sedan,Gasoline,1907693,Sold

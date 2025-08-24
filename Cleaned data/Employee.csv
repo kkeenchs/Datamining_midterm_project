@@ -1,0 +1,21 @@
+EmployeeID,FirstName,LastName,Position,Department,Branch,HireDate
+1,Nicole,Levy,Manager,Service,Khon Kaen Branch,2023-01-17
+2,Jeanette,Preston,Salesperson,Sales,Bangkok Branch,2016-04-29
+3,Lisa,Short,Manager,Service,Bangkok Branch,2024-07-07
+4,Stephen,Nguyen,Manager,Service,Khon Kaen Branch,2017-08-06
+5,Bradley,Dominguez,Manager,Sales,Chiang Mai Branch,2016-05-11
+6,Dennis,Martinez,Technician,Service,Chiang Mai Branch,2018-10-15
+7,Monica,Cowan,Manager,Service,Phuket Branch,2024-10-23
+8,Michael,Walls,Salesperson,Sales,Phuket Branch,2025-07-03
+9,Kristen,Leonard,Manager,Service,Chiang Mai Branch,2023-10-08
+10,Robin,Jones,Technician,Service,Chiang Mai Branch,2024-09-16
+11,Amanda,Collier,Technician,Service,Phuket Branch,2020-12-05
+12,Maria,Savage,Salesperson,Sales,Phuket Branch,2019-01-19
+13,Heather,Merritt,Technician,Service,Khon Kaen Branch,2019-07-20
+14,Jeremy,Vega,Manager,Service,Khon Kaen Branch,2021-12-12
+15,Emily,Johnson,Salesperson,Sales,Khon Kaen Branch,2020-09-19
+16,Robert,Haynes,Manager,Service,Bangkok Branch,2022-07-03
+17,Richard,Foster,Technician,Service,Khon Kaen Branch,2025-02-27
+18,Kevin,Wu,Manager,Sales,Chiang Mai Branch,2023-07-04
+19,Lori,Gibson,Technician,Service,Chiang Mai Branch,2023-05-07
+20,Joshua,Taylor,Manager,Sales,Phuket Branch,2023-11-07

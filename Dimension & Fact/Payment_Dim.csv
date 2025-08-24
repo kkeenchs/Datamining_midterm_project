@@ -1,0 +1,4 @@
+"FinanceType";"PaymentType";"PaymentKey"
+"Leasing";"Finance";1
+"Cash Only";"Cash";2
+"Loan";"Finance";3
